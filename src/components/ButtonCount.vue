@@ -2,7 +2,7 @@
     <div>
         <h3>Welcome</h3>
 
-        <p>Button count is: {{count}}</p>
+        <p>Button count is:{{count}}</p>
         <button @click="changeCount"> Click </button>
 
     </div>
